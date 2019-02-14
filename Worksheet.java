@@ -3,47 +3,7 @@
  * Date: January 30, 2018
  * Worksheet.java
  * Purpose: To create an elementary school work sheet by creating two arrays with values and adding or subtracting the corresponding subscripts together.
- * 			 Also randomly generate the plus and minus signs.
- * 
- *  Testing Plan: 
- 				*  Input: Please enter the maximum value for your work sheet: 33  --> Output:  						
- 				   	  	  Please enter the minimum value for your work sheet: 12
- 				  																									                        Name: _______________
-                             																                        Date:_______________
-
-																					                                    1. 19+22= 	2. 23-15= 	3. 23+27= 	4. 26+12= 	
-																					                                    5. 17+31= 	6. 14+32= 	7. 30+18= 	8. 33-21= 	
-																					                                    9. 15+28= 	10. 16+26= 	11. 24-33= 	12. 15-22= 	
-																					                                    13. 27+16= 	14. 30-17= 	15. 31-13= 	16. 18-19= 	
-																					                                    17. 32+32= 	18. 21-32= 	19. 30-21= 	20. 20-32= 	
-                                                                                  
-																				                                     	Answers: 
-
-																					                                    0. 41 		1. 8 		2. 50 		3. 38 		
-																					                                    4. 48 		5. 46 		6. 48 		7. 12 		
-																					                                    8. 43 		9. 42 		10. -9 		11. -7 		
-																					                                    12. 43 		13. 13 		14. 18 		15. -1 		
-																				                                    	16. 64 		17. -11 	18. 9 		19. -12 
- 																				
- 				* Input: Please enter the maximum value for your worksheet: 56  --> Output: 
-                 Please enter the minimum value for your worksheet: 41                                                                  Name: _______________
-                             																							          Date:_______________
-
-																					                              1. 53+48= 	2. 49-53= 	3. 42+42= 	4. 51+53= 	
-																					                              5. 41+47= 	6. 44-52= 	7. 56-50= 	8. 48+55= 	
-																					                              9. 56-51= 	10. 42-55= 	11. 49+52= 	12. 45+48= 	
-																					                              13. 48+46= 	14. 50+56= 	15. 53+44= 	16. 44+55= 	
-																				                              	17. 46-55= 	18. 50+54= 	19. 53-55= 	20. 46+54= 	
-
-
-
-																					                              Answers: 
-
-																					                              1. 101 		2. -4 		3. 84 		4. 104 		
-																					                              5. 88 		6. -8 		7. 6 		8. 103 		
-																					                              9. 5 		10. -13 	11. 101 	12. 93 		
-																					                              13. 94 		14. 106 	15. 97 		16. 99 		
-																					                              17. -9 		18. 104 	19. -2 		20. 100 																
+ * 			 Also randomly generate the plus and minus signs.																				                              17. -9 		18. 104 	19. -2 		20. 100 																
  */
 
 import java.util.Scanner; //importing Scanner which will allow user input
